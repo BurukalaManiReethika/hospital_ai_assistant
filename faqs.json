@@ -1,0 +1,110 @@
+[
+  {
+    "id": "opd-timings",
+    "question": "What are the OPD timings?",
+    "answer": "OPD runs Monday to Saturday, 9:00 AM to 5:00 PM. Individual doctor timings may differ, so check the doctor's schedule before visiting. OPD is closed on Sundays and public holidays; the emergency department stays open.",
+    "keywords": ["outpatient", "opd hours", "clinic timings", "open", "working hours"]
+  },
+  {
+    "id": "book-appointment",
+    "question": "How do I book an appointment?",
+    "answer": "You can book an appointment at the front desk, by calling the helpline, or through the hospital website. Share the patient's name, age, phone number and the doctor or department you want. You will get a confirmation with a token number and time slot.",
+    "keywords": ["schedule", "booking", "reserve", "slot", "visit doctor", "register"]
+  },
+  {
+    "id": "cancel-reschedule",
+    "question": "How can I cancel or reschedule an appointment?",
+    "answer": "Call the helpline or visit the front desk at least 4 hours before your slot with your token number. You can reschedule to any open slot for the same doctor. Cancelled appointments are refunded to the original payment mode within 5 to 7 working days.",
+    "keywords": ["change appointment", "postpone", "refund", "cancel booking", "move slot"]
+  },
+  {
+    "id": "emergency-services",
+    "question": "Is emergency service available 24 hours?",
+    "answer": "Yes. The emergency department and ambulance service run 24 hours a day, 7 days a week, including holidays. For a life-threatening situation, call the national emergency number 112 or come directly to the emergency department; no appointment is needed.",
+    "keywords": ["casualty", "urgent", "night", "accident", "24x7", "ER"]
+  },
+  {
+    "id": "visiting-hours",
+    "question": "What are the visiting hours for admitted patients?",
+    "answer": "General ward visiting hours are 4:00 PM to 6:00 PM daily. Only two visitors are allowed per patient at a time. Children under 12 are not allowed in the wards for infection control.",
+    "keywords": ["visitors", "see patient", "ward", "meet patient", "attendant"]
+  },
+  {
+    "id": "icu-visitors",
+    "question": "Can I visit a patient in the ICU?",
+    "answer": "ICU visits are limited to one visitor at a time for 10 minutes during the slots announced by the ICU nurse, usually once in the morning and once in the evening. Visitors must wear a mask and sanitize their hands before entering.",
+    "keywords": ["intensive care", "critical care", "icu timing", "icu rules"]
+  },
+  {
+    "id": "documents-needed",
+    "question": "What documents should I bring for a first visit?",
+    "answer": "Bring a government photo ID, any previous medical reports and prescriptions, and your insurance card if you have one. For children, bring the vaccination card. Carrying a list of current medicines helps the doctor.",
+    "keywords": ["papers", "id proof", "aadhaar", "reports", "first time", "new patient"]
+  },
+  {
+    "id": "insurance",
+    "question": "Do you accept health insurance and cashless treatment?",
+    "answer": "Cashless treatment is available for most major insurance providers and TPAs. Contact the insurance desk with your policy card and ID at least 24 hours before a planned admission so pre-authorization can be started. The final coverage decision is made by your insurer.",
+    "keywords": ["mediclaim", "tpa", "cashless", "policy", "coverage", "claim"]
+  },
+  {
+    "id": "health-checkup",
+    "question": "Do you offer full body health checkup packages?",
+    "answer": "Yes. Basic, advanced and senior-citizen health checkup packages are available on weekdays from 7:30 AM to 11:00 AM. Fasting for 10 to 12 hours is required for blood tests. Please book in advance at the front desk.",
+    "keywords": ["master health check", "screening", "preventive", "full body", "package"]
+  },
+  {
+    "id": "lab-reports",
+    "question": "How and when can I collect my lab reports?",
+    "answer": "Most blood test reports are ready the same day by 6:00 PM. Some special tests take 2 to 3 days. You can collect reports from the lab counter with your receipt and ID, or download them online using the patient ID and registered mobile number.",
+    "keywords": ["blood test", "diagnostic", "pathology", "results", "radiology report", "x-ray", "scan"]
+  },
+  {
+    "id": "pharmacy",
+    "question": "What are the pharmacy timings?",
+    "answer": "The in-house pharmacy is open 24 hours a day, every day, near the main entrance. Please carry the doctor's prescription when buying prescription medicines.",
+    "keywords": ["medicine shop", "medical store", "drugs", "chemist", "tablets"]
+  },
+  {
+    "id": "parking",
+    "question": "Is parking available at the hospital?",
+    "answer": "Yes. Free parking is available for two-wheelers and cars in the basement and the side lot. Patients with limited mobility can use the drop-off point at the main entrance. Wheelchairs are available at the entrance on request.",
+    "keywords": ["car park", "vehicle", "bike", "wheelchair", "drop off"]
+  },
+  {
+    "id": "payment-modes",
+    "question": "What payment modes do you accept?",
+    "answer": "Payments can be made by cash, debit or credit card, UPI and net banking at the billing counters. Receipts are issued for all payments. Online payment is available for booked appointments.",
+    "keywords": ["billing", "pay", "upi", "card", "invoice", "receipt", "fees"]
+  },
+  {
+    "id": "consultation-fee",
+    "question": "How much is the consultation fee?",
+    "answer": "The consultation fee depends on the doctor and department and ranges from Rs 400 for General Medicine to Rs 800 for Neurology. Ask for a specific doctor's name to see their fee. Follow-up visits are handled at the front desk.",
+    "keywords": ["fee", "charges", "cost", "price", "how much", "doctor fees", "consultation charges"]
+  },
+  {
+    "id": "medical-records",
+    "question": "How do I get a copy of my medical records or discharge summary?",
+    "answer": "Apply at the Medical Records department with a photo ID and the patient ID. A discharge summary is usually given at discharge. Copies of other records are provided within 3 working days. For records of another person, a signed authorization letter is required.",
+    "keywords": ["discharge summary", "case file", "history", "documents copy", "mrd"]
+  },
+  {
+    "id": "admission-process",
+    "question": "What is the admission process?",
+    "answer": "Admission starts with the doctor's advice. Take the admission slip to the admission desk with photo ID and insurance details, complete the forms, and pay the advance deposit if you are not using cashless. The desk will then allot a room or bed based on availability.",
+    "keywords": ["admit", "hospitalization", "room", "bed", "deposit", "inpatient"]
+  },
+  {
+    "id": "teleconsultation",
+    "question": "Do you provide online or video consultation?",
+    "answer": "Yes. Video consultation is available for follow-up visits and many general queries with selected doctors. Book a teleconsultation slot through the helpline or website and keep your previous reports ready to share. It is not suitable for emergencies.",
+    "keywords": ["telemedicine", "video call", "online doctor", "remote", "virtual"]
+  },
+  {
+    "id": "blood-bank",
+    "question": "Is there a blood bank in the hospital?",
+    "answer": "Yes. The blood bank is open 24 hours for emergencies. For planned requirements, a doctor's requisition form is needed. Donors aged 18 to 65 who meet the health criteria can donate on weekdays from 9:00 AM to 4:00 PM.",
+    "keywords": ["donate blood", "blood group", "donor", "transfusion", "platelets"]
+  }
+]
