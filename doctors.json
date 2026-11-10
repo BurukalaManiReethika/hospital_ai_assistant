@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Dr. Anjali Rao",
+    "department": "Cardiology",
+    "specialization": "Heart diseases, blood pressure, ECG and echo",
+    "days": "Monday, Wednesday, Friday",
+    "timings": "10:00 AM to 1:00 PM",
+    "room": "Room 204, 2nd Floor",
+    "fee": 700,
+    "keywords": ["cardiologist", "heart", "chest pain", "bp", "hypertension", "cholesterol", "palpitations"]
+  },
+  {
+    "name": "Dr. Suresh Reddy",
+    "department": "Orthopedics",
+    "specialization": "Bone and joint problems, fractures, knee and back pain",
+    "days": "Monday to Saturday",
+    "timings": "9:00 AM to 12:00 PM",
+    "room": "Room 108, Ground Floor",
+    "fee": 600,
+    "keywords": ["orthopedic", "bones", "joint", "knee", "fracture", "back pain", "spine", "sports injury"]
+  },
+  {
+    "name": "Dr. Meena Iyer",
+    "department": "Pediatrics",
+    "specialization": "Child health, vaccinations, growth and newborn care",
+    "days": "Monday to Saturday",
+    "timings": "10:00 AM to 4:00 PM",
+    "room": "Room 112, Ground Floor",
+    "fee": 500,
+    "keywords": ["pediatrician", "child", "children", "kids", "baby", "infant", "newborn", "vaccine", "vaccination"]
+  },
+  {
+    "name": "Dr. Rahul Verma",
+    "department": "General Medicine",
+    "specialization": "Fever, infections, diabetes, thyroid and general health",
+    "days": "Monday to Saturday",
+    "timings": "9:00 AM to 5:00 PM",
+    "room": "Room 101, Ground Floor",
+    "fee": 400,
+    "keywords": ["physician", "general doctor", "fever", "cold", "diabetes", "sugar", "thyroid", "infection", "checkup"]
+  },
+  {
+    "name": "Dr. Kavitha Nair",
+    "department": "Gynecology",
+    "specialization": "Women's health, pregnancy care and delivery",
+    "days": "Tuesday, Thursday, Saturday",
+    "timings": "11:00 AM to 3:00 PM",
+    "room": "Room 210, 2nd Floor",
+    "fee": 700,
+    "keywords": ["gynecologist", "obstetrics", "pregnancy", "pregnant", "women", "prenatal", "delivery", "periods"]
+  },
+  {
+    "name": "Dr. Imran Sheikh",
+    "department": "Dermatology",
+    "specialization": "Skin, hair and nail problems",
+    "days": "Tuesday, Thursday",
+    "timings": "2:00 PM to 5:00 PM",
+    "room": "Room 118, Ground Floor",
+    "fee": 500,
+    "keywords": ["dermatologist", "skin", "rash", "acne", "hair fall", "allergy", "itching"]
+  },
+  {
+    "name": "Dr. Prakash Menon",
+    "department": "ENT",
+    "specialization": "Ear, nose and throat problems",
+    "days": "Monday, Wednesday, Friday",
+    "timings": "2:00 PM to 5:00 PM",
+    "room": "Room 120, Ground Floor",
+    "fee": 500,
+    "keywords": ["ent specialist", "ear", "nose", "throat", "sinus", "tonsils", "hearing", "ear pain"]
+  },
+  {
+    "name": "Dr. Sneha Kulkarni",
+    "department": "Neurology",
+    "specialization": "Headache, migraine, epilepsy, stroke and nerve problems",
+    "days": "Tuesday, Thursday, Saturday",
+    "timings": "10:00 AM to 1:00 PM",
+    "room": "Room 215, 2nd Floor",
+    "fee": 800,
+    "keywords": ["neurologist", "brain", "headache", "migraine", "seizure", "epilepsy", "nerve", "stroke"]
+  }
+]
