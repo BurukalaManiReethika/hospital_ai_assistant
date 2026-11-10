@@ -31,3 +31,11 @@ python -m unittest -v    # run tests
 - Replace TF-IDF with sentence embeddings and a vector index (e.g. sentence-transformers + FAISS) to handle paraphrases and typos better.
 - Load doctors and schedules from a database instead of JSON.
 - Add appointment booking, conversation history and Telugu/Hindi support.
+
+## Deploy on Vercel
+
+1. Push this folder to a GitHub repo (the `.gitignore` is already included).
+2. On vercel.com choose Add New > Project, import the repo, and deploy. Vercel finds the Flask `app` in `app.py` automatically.
+3. Open the live URL and check `/` (chat page) and ask a question to confirm `/api/chat` works.
+
+Optional: set `ANTHROPIC_API_KEY` in the Vercel project's Environment Variables to enable the LLM answer step.
